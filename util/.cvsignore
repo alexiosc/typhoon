@@ -1,0 +1,16 @@
+.deps
+.libs
+Makefile
+Makefile.in
+*.lo
+*.la
+dbdview
+tyexport
+tyimport
+ddlp
+ddl.c
+ddl.h
+exp.c
+exp.h
+imp.c
+imp.h

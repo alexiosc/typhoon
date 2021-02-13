@@ -1,0 +1,13 @@
+Package: libtyphoon1-dbgsym
+Package-Type: ddeb
+Source: libtyphoon
+Version: 1.10.3-6
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Alexios Chouchoulas (Megistos Project) <megistos@vennea.demon.co.uk>
+Installed-Size: 422
+Depends: libtyphoon1 (= 1.10.3-6)
+Section: debug
+Priority: optional
+Description: debug symbols for libtyphoon1
+Build-Ids: 2eef65dd2fbf3afc9a0ffd5ec4d69b586e4b26c7 4548e0494de4a54ebd696cb34660e40383e6c8e6 9305c0266730aefe1a069de090f28e20dc68d836 b29cb40a9596401652bb21803077bb9a435beb27 f0093b77f66f8c86d549ffb5543a014df007d4fa

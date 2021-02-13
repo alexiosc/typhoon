@@ -1,0 +1,37 @@
+libtyphoon (1.10.3-5) unstable; urgency=low
+
+  * Fixed a bug in the dev package where environ.h was excluded from
+    distribution.
+
+ -- Alexios Chouchoulas <alexios@bedroomlan.org>  Fri, 05 Feb 2010 18:43:54 +0200
+
+libtyphoon (1.10.3-4) unstable; urgency=low
+
+  * Modernised the build infrastructure.
+  * Fixed a couple of minor bugs in the typhoon source.
+
+ -- Alexios Chouchoulas <alexios@bedroomlan.org>  Fri, 05 Feb 2010 17:46:10 +0200
+
+libtyphoon (1.10.3-3) unstable; urgency=low
+
+  * The previous version did not package the header file, making it useless
+    for development. This is thus the recommended development version of the
+    library.
+
+ -- Alexios Chouchoulas <alexios@vennea.bedroomlan>  Thu, 25 Dec 2003 00:32:52 +0200
+
+libtyphoon (1.10.3-2) unstable; urgency=low
+
+  * Hopefully the last release of this library, modernised as an interim
+    solution during Megistos BBS' migration to a modern, full-fledged
+    RDBMS.
+
+ -- Alexios Chouchoulas <alexios@vennea.demon.co.uk>  Wed, 13 Aug 2003 10:44:41 +0100
+
+libtyphoon (1.10.3-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Megistos Project <bbs@vennea.bedroomlan>  Wed,  2 May 2001 21:50:08 +0100
+
+

@@ -1,0 +1,10 @@
+No news (is good news).
+
+I've just converted typhoon to a more modernised Debian package, which
+should hopefully be useful while we're migrating its dependents
+(namely Megistos BBS) to a more modern RDBMS like MySQL.
+
+As a reminder: this is effectively a deprecated package. You don't
+need it. Really.
+
+Alexios Chouchoulas

@@ -1,0 +1,24 @@
+Package: libtyphoon1
+Source: libtyphoon
+Version: 1.10.3-6
+Architecture: amd64
+Maintainer: Alexios Chouchoulas (Megistos Project) <megistos@vennea.demon.co.uk>
+Installed-Size: 317
+Depends: libc6 (>= 2.14)
+Section: devel
+Priority: extra
+Description: A simple yet powerful RDBMS library
+ Typhoon is a freely available relational database management system for
+ the UNIX and OS/2 environments written by Thomas B. Pedersen. According to
+ him, the system works fine and is currently used in a number of professional
+ applications in Denmark, some of them mission critical. Here are a few
+ features:
+ .
+        - Multiple open database
+        - Multi-field keys
+        - Nested structures in records
+        - Controlled unions
+        - Referential integrity
+        - Variable length fields
+        - Null keys (optional keys in db_VISTA, but easier to use)
+        - Dynamic opening and closing of database files
