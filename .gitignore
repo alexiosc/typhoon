@@ -21,7 +21,11 @@ stamp-h.in
 tmp
 .deps
 .libs
-
+*.lo
+*.la
+*.a
+*.o
+*.s
 
 /debian/files
 /debian/tmp
@@ -30,12 +34,6 @@ tmp
 /debian/typhoon1.postinst.debhelper
 /debian/typhoon1.postrm.debhelper
 /debian/typhoon1.substvars
-
-/src/*.lo
-/src/*.la
-
-/util/*.lo
-/util/*.la
 
 /util/dbdview
 /util/tyexport
