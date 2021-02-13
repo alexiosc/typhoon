@@ -27,6 +27,16 @@ tmp
 *.o
 *.s
 
+/m4
+/ylwrap
+/stamp-h1
+/depcomp
+/ltmain.sh
+/compile
+/config.guess
+/config.sub
+
+/debian/.debhelper
 /debian/files
 /debian/tmp
 /debian/typhoon-dev
@@ -34,6 +44,8 @@ tmp
 /debian/typhoon1.postinst.debhelper
 /debian/typhoon1.postrm.debhelper
 /debian/typhoon1.substvars
+/debian/libtyphoon-dev
+/debian/libtyphoon1
 
 /util/dbdview
 /util/tyexport
