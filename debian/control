@@ -7,7 +7,7 @@ Standards-Version: 3.5.2
 
 Package: libtyphoon-dev
 Architecture: any
-Depends: libtyphoon1 (= ${Source-Version}), libc6-dev
+Depends: libtyphoon1 (= ${source:Version}), libc6-dev
 Description: Development files for Typhoon, a simple RDBMS
  Typhoon is a freely available relational database management system for
  the UNIX and OS/2 environments written by Thomas B. Pedersen. According to
